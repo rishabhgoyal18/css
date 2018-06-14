@@ -1,0 +1,25 @@
+body,html{ font-family: sans-serif;
+    font-size: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+img{border: 2px solid black;}
+h1{ background-color:blueviolet;
+    color: snow;
+    text-align: center;
+    font-family: sans-serif;
+}
+nav{
+    text-align: justify;
+}
+nav li.y a {list-style-type: square;
+    display: inline-block;
+    text-align:left;
+}
+a li {text-decoration: underline;}
+li.y, a{color: blueviolet}
+
+h2{background-color: aqua;
+    color: snow;
+    padding-left: 10px;
+}
